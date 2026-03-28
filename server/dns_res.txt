@@ -1,0 +1,1 @@
+[{"name":"ac-43icfgx-shard-00-02.lxvfqo5.mongodb.net","port":27017,"priority":0,"weight":0,"type":"SRV"},{"name":"ac-43icfgx-shard-00-01.lxvfqo5.mongodb.net","port":27017,"priority":0,"weight":0,"type":"SRV"},{"name":"ac-43icfgx-shard-00-00.lxvfqo5.mongodb.net","port":27017,"priority":0,"weight":0,"type":"SRV"}]
